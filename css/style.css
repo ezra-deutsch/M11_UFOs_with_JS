@@ -1,0 +1,12 @@
+/* 11.6.3 - Add text color to the */
+body {
+
+    color: #f7f7f7;
+}
+/* 11.6.3 - Customize the Jumbotron */
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
